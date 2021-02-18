@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CSharpTest.Net.Collections" Version="14.906.1403.1082" />
+    <PackageReference Include="LumenWorksCsvReader" Version="4.0.0" />
+    <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="5.0.1" />
+  </ItemGroup>
+
+</Project>
