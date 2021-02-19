@@ -10,7 +10,7 @@ using System.Text;
 
 namespace AdvanceQuestion5
 {
-    class Program
+    class Program 
     {
         const int MaxRam = 4;
         const int BytesInGB = 1073741824;
